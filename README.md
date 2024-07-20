@@ -1,40 +1,84 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# CryptoNite
 
-## Getting Started
+Welcome to CryptoNite, your one-stop platform for real-time information on a wide range of cryptocurrencies. Discover the latest prices, market capitalization, daily cryptocurrency news, and visually compelling graphs showcasing the price history of various cryptocurrencies. Dive into our dynamic features designed to provide a seamless and informative user experience.
 
-First, run the development server:
+## Demo
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Check out the live demo of the project [here](https://crypto-nite-alpha.vercel.app/).
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- **Responsive Design**: Adapts to different screen sizes for an optimal viewing experience.
+- **Global Crypto Stats**: Displays the total number of cryptocurrencies, market cap, markets, exchanges, and 24-hour volume.
+- **Cryptocurrency Detail Page**: Provides detailed information about a specific cryptocurrency.
+- **Interactive Carousel**: Shows top cryptocurrencies with their current prices and market cap.
+- **Real-time Data**: Fetches data from the CoinRanking API to ensure up-to-date information.
+- **Visual Representation**: Features interactive and visually appealing charts for data visualization.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Technologies
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- **React**
+- **Next.js**
+- **Tailwind CSS**
+- **Alice Carousel**
+- **Axios**
+- **Millify**
+- **CoinRanking API**
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Installation
 
-## Learn More
+To get started with the Crypto Dashboard, follow these steps:
 
-To learn more about Next.js, take a look at the following resources:
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/your-username/crypto-dashboard.git
+    cd crypto-dashboard
+    ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2. **Install the dependencies:**
+    ```bash
+    npm install
+    ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+3. **Set up the environment variables:**
+    Create a `.env.local` file in the root of the project and add your CoinRanking API key:
+    ```
+    NEXT_PUBLIC_RAPIDAPI_KEY=your-rapidapi-key
+    ```
 
-## Deploy on Vercel
+## Usage
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. **Run the development server:**
+    ```bash
+    npm run dev
+    ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+2. **Open the application:**
+    Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
+
+## Contributing
+
+Contributions are welcome! To contribute, follow these steps:
+
+1. **Fork the repository.**
+2. **Create a new branch:**
+    ```bash
+    git checkout -b feature/your-feature
+    ```
+3. **Commit your changes:**
+    ```bash
+    git commit -m 'Add your feature'
+    ```
+4. **Push to the branch:**
+    ```bash
+    git push origin feature/your-feature
+    ```
+5. **Create a new Pull Request.**
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+---
+
+
