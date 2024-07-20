@@ -75,10 +75,35 @@ Contributions are welcome! To contribute, follow these steps:
     ```
 5. **Create a new Pull Request.**
 
+Screenshots:
+
+Desktop View:
+
+<img width="1440" alt="Screenshot 2024-07-20 at 11 04 07 PM" src="https://github.com/user-attachments/assets/79aca53e-d5af-4e3e-845e-5f79487b148f">
+
+<img width="1440" alt="Screenshot 2024-07-20 at 11 04 15 PM" src="https://github.com/user-attachments/assets/cc679605-2c26-493f-92db-4639dd66edae">
+
+<img width="1440" alt="Screenshot 2024-07-20 at 11 04 28 PM" src="https://github.com/user-attachments/assets/d5ae83cb-4e2b-41c2-938f-0c64f3af3044">
+
+<img width="1437" alt="Screenshot 2024-07-20 at 11 05 39 PM" src="https://github.com/user-attachments/assets/fb3309ee-0d43-4ea8-9ac9-ddb79812c672">
+
+
+Mobile View:
+
+<img width="287" alt="Screenshot 2024-07-20 at 11 04 45 PM" src="https://github.com/user-attachments/assets/a9660402-3215-4e10-825b-17be0ef54d33">
+
+<img width="286" alt="Screenshot 2024-07-20 at 11 04 58 PM" src="https://github.com/user-attachments/assets/fc9c1cf9-83bb-4f3e-aabf-a258d3f66830">
+
+<img width="285" alt="Screenshot 2024-07-20 at 11 05 08 PM" src="https://github.com/user-attachments/assets/36e60e56-61d9-4932-9b1d-2fbf30bef664">
+
+<img width="284" alt="Screenshot 2024-07-20 at 11 05 21 PM" src="https://github.com/user-attachments/assets/f0b71717-4f03-46af-b9e7-e2e08f4ee0c5">
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
+
 ---
+
 
 
